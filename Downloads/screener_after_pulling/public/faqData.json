@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": 2,
+      "question": "How do I install React?",
+      "answer": "You can install React by using npm or yarn. For example, you can run 'npm install react' in your terminal."
+    },
+    {
+      "id": 3,
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension for JavaScript recommended by React. It looks similar to XML or HTML and is used with React to describe what the UI should look like."
+    },
+    {
+      "id": 4,
+      "question": "How do I create a React component?",
+      "answer": "You can create a React component by defining a JavaScript function or class that returns a React element. Components can be functional or class-based."
+    },
+    {
+      "id": 5,
+      "question": "What is the virtual DOM?",
+      "answer": "The virtual DOM is a lightweight copy of the real DOM. React uses it to improve performance by minimizing the number of direct manipulations to the actual DOM."
+    },
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": 2,
+      "question": "How do I install React?",
+      "answer": "You can install React by using npm or yarn. For example, you can run 'npm install react' in your terminal."
+    },
+    {
+      "id": 3,
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension for JavaScript recommended by React. It looks similar to XML or HTML and is used with React to describe what the UI should look like."
+    },
+    {
+      "id": 4,
+      "question": "How do I create a React component?",
+      "answer": "You can create a React component by defining a JavaScript function or class that returns a React element. Components can be functional or class-based."
+    },
+    {
+      "id": 5,
+      "question": "What is the virtual DOM?",
+      "answer": "The virtual DOM is a lightweight copy of the real DOM. React uses it to improve performance by minimizing the number of direct manipulations to the actual DOM."
+    },
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces."
+    },
+    {
+      "id": 2,
+      "question": "How do I install React?",
+      "answer": "You can install React by using npm or yarn. For example, you can run 'npm install react' in your terminal."
+    },
+    {
+      "id": 3,
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension for JavaScript recommended by React. It looks similar to XML or HTML and is used with React to describe what the UI should look like."
+    },
+    {
+      "id": 4,
+      "question": "How do I create a React component?",
+      "answer": "You can create a React component by defining a JavaScript function or class that returns a React element. Components can be functional or class-based."
+    },
+    {
+      "id": 5,
+      "question": "What is the virtual DOM?",
+      "answer": "The virtual DOM is a lightweight copy of the real DOM. React uses it to improve performance by minimizing the number of direct manipulations to the actual DOM."
+    }
+  ]
+  

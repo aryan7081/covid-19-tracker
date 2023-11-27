@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        { "source": "/v3/:path*", "destination": "https://api.labh.ai/v3/:path*" },
+        { "source": "/(.*)", "destination": "/index.html" }
+    ]
+}
